@@ -13,6 +13,25 @@ h2 {
 .button:hover {
 	border-style: dashed;
 }
+
+svg[Attributes Style] {
+    width: 900px;
+    height: 1200px;
+}
+user agent stylesheet
+html|* > svg {
+    transform-origin: 50% 50% 0px;
+}
+user agent stylesheet
+svg:not(:root), symbol, image, marker, pattern, foreignObject {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+user agent stylesheet
+* {
+    transform-origin: 0px 0px 0px;
+}
 /* CSS */
 .hsContainer {
     display: table;
