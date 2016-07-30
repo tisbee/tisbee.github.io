@@ -32,7 +32,9 @@ user agent stylesheet
 * {
     transform-origin: 0px 0px 0px;
 }
+
 /* CSS */
+/*
 .hsContainer {
     display: table;
     table-layout: fixed;
@@ -70,3 +72,4 @@ user agent stylesheet
     text-align: center
 }
 #slide-3 .bcg {background-image:url('../img/bcg_slide-3.jpg')}
+*/
