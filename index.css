@@ -1,18 +1,4 @@
-/*
-h2 {
-    color: red;
-    margin-left: 20px;
-}
-*/
-.button {
-	background-color: #fff;
-	border: 2px solid #333;
-	color: #333;
-	line-height: 50px;
-}
-.button:hover {
-	border-style: dashed;
-}
+
 
 svg[Attributes Style] {
     width: 900px;
@@ -31,6 +17,9 @@ svg:not(:root), symbol, image, marker, pattern, foreignObject {
 user agent stylesheet
 * {
     transform-origin: 0px 0px 0px;
+}
+div {
+    display: block;
 }
 
 /* CSS */
@@ -63,7 +52,7 @@ user agent stylesheet
 }
 */
 /* Slide 1 */
-/*
+
 #slide-1 .bcg {background-image:url('../img/bcg_slide-1.jpg')}
 
 /* CSS - Slide 2 */
