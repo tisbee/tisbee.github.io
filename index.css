@@ -18,6 +18,9 @@ user agent stylesheet
 * {
     transform-origin: 0px 0px 0px;
 }
+div#skrollr-body {
+}
+user agent stylesheet
 div {
     display: block;
 }
