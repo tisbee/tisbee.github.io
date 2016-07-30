@@ -1,9 +1,9 @@
-
+/*
 h2 {
     color: red;
     margin-left: 20px;
 }
-
+*/
 .button {
 	background-color: #fff;
 	border: 2px solid #333;
@@ -61,10 +61,13 @@ user agent stylesheet
     height: 100%;
     width: 100%;
 }
+*/
 /* Slide 1 */
+/*
 #slide-1 .bcg {background-image:url('../img/bcg_slide-1.jpg')}
 
 /* CSS - Slide 2 */
+/*
 #slide-2 .bcg {
     background: none;
     background-color: #010101;
