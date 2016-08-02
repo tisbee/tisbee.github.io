@@ -1,4 +1,6 @@
-
+.path{
+      stroke-dasharray: 20;
+}
 
 svg[Attributes Style] {
     width: 900px;
